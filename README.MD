@@ -1,3 +1,8 @@
+///////////////////////////////
+MULTI THREAD CHATROOM BASED ON SOCKET
+///////////////////////////////
+
+
 1. run "make" in terminal.
 2. run ./server to start chat server.
 3. run ./client 127.0.0.1 3490 to start a client.
